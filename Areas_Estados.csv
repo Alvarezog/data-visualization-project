@@ -1,33 +1,33 @@
-﻿Estado,Superficie km2
-Aguascalientes,5616
-Baja California,71450
-Baja California Sur,73909
-Campeche,57507
-Chiapas,73311
-Chihuahua,247455
-Ciudad de México,1495
-Coahuila de Zaragoza,151562
-Colima,5627
-Durango,123317
-Estado de México,22351
-Guanajuato,30608
-Guerrero,63596
-Hidalgo,20813
-Jalisco,78588
-Michoacán,58599
-Morelos,4879
-Nayarit,27857
-Nuevo León,64156
-Oaxaca,93757
-Puebla,34306
-Querétaro,11699
-Quintana Roo,44705
-San Luis Potosí,61137
-Sinaloa,58200
-Sonora,179355
-Tabasco,24731
-Tamaulipas,80249
-Tlaxcala,4016
-Veracruz,71826
-Yucatán,39524
-Zacatecas,75284
+﻿Estado,Superficie km2,Superficie_m2
+Aguascalientes,5616,5616000000
+Baja California,71450,71450000000
+Baja California Sur,73909,73909000000
+Campeche,57507,57507000000
+Chiapas,73311,73311000000
+Chihuahua,247455,2.47E+11
+Distrito Federal,1495,1495000000
+Coahuila,151562,1.52E+11
+Colima,5627,5627000000
+Durango,123317,1.23E+11
+México,22351,22351000000
+Guanajuato,30608,30608000000
+Guerrero,63596,63596000000
+Hidalgo,20813,20813000000
+Jalisco,78588,78588000000
+Michoacán,58599,58599000000
+Morelos,4879,4879000000
+Nayarit,27857,27857000000
+Nuevo León,64156,64156000000
+Oaxaca,93757,93757000000
+Puebla,34306,34306000000
+Querétaro,11699,11699000000
+Quintana Roo,44705,44705000000
+San Luis Potosí,61137,61137000000
+Sinaloa,58200,58200000000
+Sonora,179355,1.79E+11
+Tabasco,24731,24731000000
+Tamaulipas,80249,80249000000
+Tlaxcala,4016,4016000000
+Veracruz,71826,71826000000
+Yucatán,39524,39524000000
+Zacatecas,75284,75284000000
